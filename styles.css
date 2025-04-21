@@ -62,18 +62,3 @@ body {
     opacity: 0.9;
  }
 
-/* Added image sources for poses */
-.card:first-of-type::after {
-    content: "Image source: pose1.png";
-    display: none;
-}
-
-.card:last-of-type::after {
-    content: "Image source: pose3.png";
-    display: none;
-}
-
-.card:nth-of-type(2)::after {
-    content: "Image source: pose2.png";
-    display: none;
-}
