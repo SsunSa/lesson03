@@ -29,7 +29,7 @@ body {
     margin-bottom: 30px;
 }
 .card:first-of-type {
-   background: #fff url(./images/pose1.png) no-repeat center right/150px;
+   background: #fff url(./‫images/pose1.png) no-repeat center right/150px;
 }
 
 .card:first-of-type a {
@@ -37,14 +37,14 @@ body {
  }
 
 .card:last-of-type {
-    background: #fff url(./images/pose3.png) no-repeat center right/150px;
+    background: #fff url(./‫images/pose3.png) no-repeat center right/150px;
  }
 
  .card:last-of-type a {
     background-color: #537a4f;
  }
  .card:nth-of-type(2) {
-    background: #fff url(./images/pose2.png) no-repeat center right/150px;
+    background: #fff url(./‫images/pose2.png) no-repeat center right/150px;
  }
 
  .card:nth-of-type(2) a {
