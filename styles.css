@@ -15,7 +15,7 @@ body {
 .card{
     background-color: #fff;
     margin: 20px 0;
-    padding: 20px 20px 30px 0;
+    padding: 20px 20px 30px;
     border-radius: 10px;
     box-shadow: 0 4px 6px rgba(0,0,0,0.1);
 }
@@ -44,7 +44,8 @@ body {
     background-color: #537a4f;
  }
  .card:nth-of-type(2) {
-    background: #fff url(./‫images/pose2.png) no-repeat center right/150px;
+    background: #fff url(./images/pose2.png)
+ no-repeat center right/150px;
  }
 
  .card:nth-of-type(2) a {
